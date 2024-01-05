@@ -13,16 +13,16 @@
     }
   ],
   "env": {
-    "MONGO_URL": "mongodb+srv://hassan4269:BsBYbrzmFVE7Y5mS@cluster-rental-mate.hosimbv.mongodb.net/?retryWrites=true&w=majority",
+    "MONGO_URL": "mongodb+srv://hassanm8537:JAbRxUNMCKKgZhIU@ordercluster.0s50rgq.mongodb.net/?retryWrites=true&w=majority",
     "PORT": "9633",
-    "JWT_SECRET":"a82a56726d13723837c60037ea2391e022c84e296cefe1c60e6d1af3bcec1888056a4e3aa66eca89afd9d1554f8916b88c03f921e4ba3c4f18356bab9dad2fca",
+    "JWT_SECRET":"7d7fb20f8ab4c88b3c0de3518c4ee4640310474bc50490ff4527160e04aadbcf",
     "GOOGLE_CLIENT_ID":"http://925591508840-4gkbjtn5scntgl0ibjjkcpe62a4b52rf.apps.googleusercontent.com"
   },
   "build": {
     "env": {
-        "MONGO_URL": "mongodb+srv://hassan4269:BsBYbrzmFVE7Y5mS@cluster-rental-mate.hosimbv.mongodb.net/?retryWrites=true&w=majority",
+        "MONGO_URL": "mongodb+srv://hassanm8537:JAbRxUNMCKKgZhIU@ordercluster.0s50rgq.mongodb.net/?retryWrites=true&w=majority",
         "PORT": "9633",
-        "JWT_SECRET":"a82a56726d13723837c60037ea2391e022c84e296cefe1c60e6d1af3bcec1888056a4e3aa66eca89afd9d1554f8916b88c03f921e4ba3c4f18356bab9dad2fca",
+        "JWT_SECRET":"7d7fb20f8ab4c88b3c0de3518c4ee4640310474bc50490ff4527160e04aadbcf",
         "GOOGLE_CLIENT_ID":"http://925591508840-4gkbjtn5scntgl0ibjjkcpe62a4b52rf.apps.googleusercontent.com"
     },
     "commands": {
